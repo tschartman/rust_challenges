@@ -1,0 +1,9 @@
+[package]
+name = "guessing_gmae"
+version = "0.1.0"
+authors = ["timschartman"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.3.14"

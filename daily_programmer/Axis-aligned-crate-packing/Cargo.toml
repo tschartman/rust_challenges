@@ -1,0 +1,8 @@
+[package]
+name = "Axis-aligned-crate-packing"
+version = "0.1.0"
+authors = ["timschartman"]
+edition = "2018"
+
+[dependencies]
+permutohedron = "0.2.4"
